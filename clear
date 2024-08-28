@@ -1,0 +1,149 @@
+[33mcommit 8f4eb735a93cd36b8e73acaa4c57cd978f2767a4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfix-migrations-endpoint[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Felipe Lima <pegasusyt1@gmail.com>
+Date:   Fri Aug 23 10:55:45 2024 -0300
+
+    adds `/api/v1/migrations` endpoint
+
+[33mcommit faf3d648b8772d22354e6ade8534dbaa44a75020[m
+Author: Felipe Lima <pegasusyt1@gmail.com>
+Date:   Tue Aug 13 11:30:46 2024 -0300
+
+    add migrations scripts
+
+[33mcommit 3b90319c5d68d796a22b0bcd52153abacbdf94ad[m
+Author: Felipe Lima <pegasusyt1@gmail.com>
+Date:   Fri Aug 9 11:12:07 2024 -0300
+
+    handle database ssl
+
+[33mcommit 5fe27dcf14a824f707c67fb33a505757e0eba8da[m
+Author: Felipe Lima <pegasusyt1@gmail.com>
+Date:   Thu Aug 8 09:19:13 2024 -0300
+
+    a
+
+[33mcommit 849ed868ee255ab03aec1be902c85e75c233b693[m
+Author: Felipe Lima <pegasusyt1@gmail.com>
+Date:   Wed Aug 7 12:12:15 2024 -0300
+
+    make database handle error better
+
+[33mcommit d2098c18d394e329f754b3fcb1d4f4dc20ed2a7c[m
+Author: Felipe Lima <pegasusyt1@gmail.com>
+Date:   Wed Aug 7 12:12:12 2024 -0300
+
+    database fix client end
+
+[33mcommit 335247b714e6b514f6aa3f59dcb0201094d30334[m
+Author: Felipe Lima <pegasusyt1@gmail.com>
+Date:   Thu Aug 1 10:24:01 2024 -0300
+
+    scrips para docker
+
+[33mcommit 0651b67b54d2e292a0f95a71cb24ddd9050a3d9b[m
+Author: Felipe Lima <pegasusyt1@gmail.com>
+Date:   Wed Jul 31 10:59:56 2024 -0300
+
+    adiciona jsconfig e mudanca de caminhos
+
+[33mcommit 7346c269fa8ca267a63a47d4086057da140e0df0[m
+Author: Felipe Lima <pegasusyt1@gmail.com>
+Date:   Mon Jul 29 09:14:29 2024 -0300
+
+    move env to development
+
+[33mcommit f908f480a19b70b9db8387f3587e330c415cba3c[m
+Author: Felipe Lima <pegasusyt1@gmail.com>
+Date:   Fri Jul 26 17:43:21 2024 -0300
+
+    add database.js e .env
+
+[33mcommit 051967503a1f67922e68038edc3152f407f73803[m
+Author: Felipe Lima <pegasusyt1@gmail.com>
+Date:   Thu Jul 25 13:32:30 2024 -0300
+
+    integrando variaveis de ambiente
+
+[33mcommit 60d4e72e15d9a5d91194b350549f1d9b0a0af5df[m
+Author: Felipe Lima <110477475+Satsuj1n@users.noreply.github.com>
+Date:   Tue Jul 23 17:16:45 2024 +0000
+
+    instalando pg e implementacao do database
+
+[33mcommit f6349bf455b9541e5f2ee96cfe15414224af8948[m
+Author: Felipe Lima <110477475+Satsuj1n@users.noreply.github.com>
+Date:   Mon Jul 22 13:16:51 2024 +0000
+
+    yaml to infra file
+
+[33mcommit ae99235195661f1bee15cc6a69392cc28206d01c[m
+Author: Felipe Lima <pegasusyt1@gmail.com>
+Date:   Mon Jul 22 10:08:36 2024 -0300
+
+    yaml file
+
+[33mcommit 83e5a274e0dd55c84c910ca8e011bd39d42d7974[m
+Author: Felipe Lima <pegasusyt1@gmail.com>
+Date:   Thu Jul 18 13:16:28 2024 -0300
+
+    yes sir
+
+[33mcommit b439241984decfa0a455b6cbbaf68393647d3eb7[m
+Author: Felipe Lima <pegasusyt1@gmail.com>
+Date:   Mon Jul 8 15:11:47 2024 -0300
+
+    commit do jest
+
+[33mcommit 2340f23c205659b015c3bb4549120adfc9f1c781[m
+Author: Felipe Lima <pegasusyt1@gmail.com>
+Date:   Mon Feb 19 11:21:11 2024 -0300
+
+    adiciona .prettierignore
+
+[33mcommit 54b665b14e498747199371c67fbfc40cf665be3d[m
+Author: Felipe Lima <pegasusyt1@gmail.com>
+Date:   Wed Feb 14 11:03:21 2024 -0300
+
+    prettier fix
+
+[33mcommit 5f8f6b9b87d12723b5fe9090c8c20b78fbfc451c[m
+Author: Felipe <pegasusyt1@gmail.com>
+Date:   Mon Nov 6 12:31:22 2023 -0300
+
+    adiciona arquivo ´.editorconfig´
+
+[33mcommit d105dc376a8f68381eedd28ad6b3873d191ff053[m
+Author: Felipe Lima <110477475+Satsuj1n@users.noreply.github.com>
+Date:   Thu Oct 5 14:50:40 2023 +0000
+
+    alteracao basica na pasta pages
+
+[33mcommit 1e3c75da0e67222cf30d30c41dfc4d3e37c9b272[m
+Author: Felipe Lima <110477475+Satsuj1n@users.noreply.github.com>
+Date:   Tue Oct 3 14:50:30 2023 +0000
+
+    upload da pasta pages
+
+[33mcommit 78674e8f022caa65f825d39461dfbcfd7a8a8d69[m
+Author: Felipe Lima <110477475+Satsuj1n@users.noreply.github.com>
+Date:   Tue Oct 3 14:47:31 2023 +0000
+
+    adiciona arquivos de manifesto
+
+[33mcommit 4b747e1f018b041020822e94fcf0d46e6e65baa0[m
+Author: Felipe Lima <110477475+Satsuj1n@users.noreply.github.com>
+Date:   Tue Oct 3 14:42:31 2023 +0000
+
+    implementa .nvmrc
+
+[33mcommit 9509c7d2a47ec0b27500297c529ee22d121c0cbe[m
+Author: Felipe Lima <110477475+Satsuj1n@users.noreply.github.com>
+Date:   Mon Oct 2 23:31:30 2023 +0000
+
+    adiciona o arquivo .gitignore
+
+[33mcommit 1d896a745b566d65d79b5b6519bfbb3e9aaf1262[m
+Author: Felipe Lima <110477475+Satsuj1n@users.noreply.github.com>
+Date:   Tue Sep 26 10:19:33 2023 -0300
+
+    Initial commit
