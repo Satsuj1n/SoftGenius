@@ -39,5 +39,5 @@ async function getNewClient() {
 
 export default {
   query,
-  getNewClient
+  getNewClient,
 };
